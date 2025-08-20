@@ -1,31 +1,13 @@
-## Hi there 👋 I'm Mohanavalli T  
+<h1 align="center">Hi 👋, I'm MOHANAVALLI T</h1>
+<h3 align="center">A passionate ML and frontend developer from India</h3>
 
-🚀 Passionate **Computer Science Engineer** | 💻 **Web Developer & ML Enthusiast**  
+- 💬 Ask me about **JAVA CSS HTML PYTHON SQL git**
 
-### 🔭 What I’m working on:
-- AI Agents for workflow automation 🤖  
-- Voice-to-CAD Model Generation 🎤📐  
-- Streamlit-based AI apps  
+- 📫 How to reach me **mohanavalli139@gmail.com**
 
-### 🌱 What I’m learning:
-- Advanced Machine Learning & AI agents  
-- UI/UX design principles  
-- Full-stack development with React + Node.js  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 👯 Open to collaborate on:
-- AI/ML projects  
-- Web applications  
-- Open-source contributions  
-
-### 💬 Ask me about:
-- Python, Java, HTML, CSS  Streamlit  
-- Machine Learning projects (Fraud Detection, Image Classification, etc.)  
-- Git, APIs, Workflow Automation  
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:yourmail@example.com)  
-
----
-
-⚡ *Fun fact:* I love building smart AI assistants that not only **solve problems** but also **make life easier** ✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
